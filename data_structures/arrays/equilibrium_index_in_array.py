@@ -19,7 +19,7 @@ Output: 3
 
 """
 
-
+GIT GIT
 def equilibrium_index(arr: list[int]) -> int:
     """
     Find the equilibrium index of an array.
